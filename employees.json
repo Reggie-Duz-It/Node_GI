@@ -1,0 +1,73 @@
+[
+    {
+        "id":"TK101",
+        "name":"Rick Flair",
+        "salary":"153.00",
+        "department": "Human Resources"
+    },
+
+    {
+        "id":"TK102",
+        "name":"Johnny Storm",
+        "salary":"280.00",
+        "department": "Fire Control"
+    },
+
+    {
+        "id":"TK103",
+        "name":"Nikki Minaj",
+        "salary":"360.00",
+        "department": "Music Industry"
+    },
+
+
+     {
+        "id":"TK104",
+        "name":"Patrick Star",
+        "salary":"480.00",
+        "department": "Road Construction"
+    },
+
+    {
+        "id":"TK105",
+        "name":"Rocky Balboa",
+        "salary":"520.00",
+        "department": "Defense Training"
+    },
+
+    {
+        "id":"TK106",
+        "name":"Bob Pants",
+        "salary":"600.00",
+        "department": "Food Management"
+    },
+
+    {
+        "id":"TK107",
+        "name":"Patrick Star",
+        "salary":"740.00",
+        "department": "Road Construction"
+    },
+
+    {
+        "id":"TK108",
+        "name":"Donald Trump",
+        "salary":"870.00",
+        "department": "CEO Executive"
+    },
+
+    {
+        "id":"TK109",
+        "name":"Eric Wright",
+        "salary":"2980.00",
+        "department": "Pharmaceutical Rep"
+    },
+
+    {
+        "id":"TK1010",
+        "name":"Reginald Devarel",
+        "salary":"9000.00",
+        "department": "Tech Engineering"
+    }
+
+]
